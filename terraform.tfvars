@@ -1,0 +1,5 @@
+bucket_name = "mynanabonsumabuckyy-1267yh56yuimbngrgfdyinu"
+domain_name = "apacheteinmantechnologies.engineer"
+aws_region  = "us-west-1"
+certificate_arn = "arn:aws:acm:us-east-1:730335440380:certificate/56da92ab-beb0-4a72-a4aa-b16f38b7e41b"
+zone_id = "Z09950329WXD4NRRHCSI"
